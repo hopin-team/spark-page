@@ -6,7 +6,7 @@
 
          
     <groupId>com.hopin.dataplatform</groupId>
-    <artifactId>enforcement-parent</artifactId>
+    <artifactId>enforce</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
