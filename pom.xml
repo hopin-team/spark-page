@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/hopin-team/spark-unified-platform</url>
+            <url>https://maven.pkg.github.com/hopin-team/spark-package</url>
         </repository>
     </distributionManagement>
 
