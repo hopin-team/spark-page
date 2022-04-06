@@ -9,6 +9,12 @@ on:
   release:
     types: [created]
 
+permissions:
+  contents: write
+  pull-requests: write
+  packages: write
+  
+
 jobs:
   build:
 
